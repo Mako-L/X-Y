@@ -121,7 +121,7 @@ To avoid and solve the X-Y Problem by oneself, follow these guidelines:
 
 10. Keep learning: Continuously expand your knowledge in your field and stay up to date with best practices, techniques, and tools. This will help you make well-informed decisions when solving problems.
 
-<div align="yourself">
+<div align="center">
   <a href="https://github.com/Tor101/LangChain-CheatSheet" target="">
     <img width="690" src="https://i.imgur.com/FukQtS1.png" alt="logo">
   </a>
@@ -225,13 +225,13 @@ AI-XYP has considered the rules of thought and provided insights aligned with th
 
 ### Example usage Prompt v0.1337
 
-<div align="yourself">
+<div align="center">
   <a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="">
     <img width="690" src="https://i.imgur.com/89X8qCH.png" alt="logo">
   </a>  
 </div>
 
-<div align="yourself">
+<div align="center">
   <a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="">
     <img width="690" src="https://i.imgur.com/ySt0qyB.png" alt="logo">
   </a>  
