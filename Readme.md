@@ -1,7 +1,7 @@
 
-<div align="yourself">
+<div align="center">
   <a href="https://github.com/Tor101/LangChain-CheatSheet" target="">
-    <img width="900" src="https://i.imgur.com/I3PUKI0.png" alt="logo">
+    <img width="690" src="https://i.imgur.com/I3PUKI0.png" alt="logo">
   </a>
   <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="I">AI-Guided Strategy for Addressing the X-Y Problem in User Prompts</a></h1>
     <h1 id="LangChainCheatSheet"><a href="https://xyproblem.info/" target="I">The X-Y Problems</a></h1>
@@ -123,7 +123,7 @@ To avoid and solve the X-Y Problem by oneself, follow these guidelines:
 
 <div align="yourself">
   <a href="https://github.com/Tor101/LangChain-CheatSheet" target="">
-    <img width="7777" src="https://cdn.midjourney.com/3c436acb-24c5-4e80-a896-d139d5b5a9d9/0_0.png" alt="logo">
+    <img width="690" src="https://i.imgur.com/FukQtS1.png" alt="logo">
   </a>
   <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="I">System prompts:</a></h1>
   <p>@Tor101</p>
@@ -142,7 +142,7 @@ Rules of thought = 4✅
 Prompt = Write a poem.
 ```
 
-<div align="yourself">
+<div align="center">
   <a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="">
     <img width="690" src="https://cdn.midjourney.com/3c436acb-24c5-4e80-a896-d139d5b5a9d9/0_0.png" alt="Behaviour">
   </a>  
