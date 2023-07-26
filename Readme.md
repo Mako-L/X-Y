@@ -1,7 +1,7 @@
 
 <div align="yourself">
   <a href="https://github.com/Tor101/LangChain-CheatSheet" target="">
-    <img width="500" src="https://cdn.midjourney.com/af6325a3-05c8-4353-9bf9-e2f96d58e37c/0_2.png" alt="logo">
+    <img width="500" src="https://i.imgur.com/I3PUKI0.png" alt="logo">
   </a>
   <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="I">AI-Guided Strategy for Addressing the X-Y Problem in User Prompts</a></h1>
     <h1 id="LangChainCheatSheet"><a href="https://xyproblem.info/" target="I">The X-Y Problems</a></h1>
