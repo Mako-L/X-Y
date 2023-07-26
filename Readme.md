@@ -144,7 +144,7 @@ Prompt = Write a poem.
 
 <div align="yourself">
   <a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="">
-    <img width="690" src="https://user-images.githubusercontent.com/114256139/230689562-4ab4d5bb-7e6a-42f0-af7c-5f2b6a211d04.png" alt="Behaviour">
+    <img width="690" src="https://cdn.midjourney.com/3c436acb-24c5-4e80-a896-d139d5b5a9d9/0_0.png" alt="Behaviour">
   </a>  
 </div>
 
