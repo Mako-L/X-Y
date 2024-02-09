@@ -5,7 +5,6 @@
   </a>
   <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="I">AI-Guided Strategy for Addressing the X-Y Problem in User Prompts</a></h1>
     <h1 id="LangChainCheatSheet"><a href="https://xyproblem.info/" target="I">The X-Y Problems</a></h1>
-  <p>Tor#2588</p>
 </div>
 
 
